@@ -13,7 +13,7 @@ const BoardContainer = styled(FullHeight)`
 `
 
 const ScoreContainer = styled(FullHeight)`
-  background-color: #9370DB;
+  background-color: #9440DB;
 `
 
 const Game = () => (
