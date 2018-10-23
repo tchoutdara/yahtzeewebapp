@@ -9,11 +9,11 @@ const FullHeight = styled(Grid.Column)`
 `
 
 const BoardContainer = styled(FullHeight)`
-  background-color: #AAFFAA;
+  background-color: #A9A9A9;
 `
 
 const ScoreContainer = styled(FullHeight)`
-  background-color: #9440DB;
+  background-color: #6495ED;
 `
 
 const Game = () => (
